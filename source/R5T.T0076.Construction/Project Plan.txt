@@ -1,0 +1,3 @@
+R5T.T0076.Construction - Construction project for Custom IWebHostBuilder interface and WebHostBuilder class implementation..
+
+GOALS:
